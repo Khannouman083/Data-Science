@@ -1,0 +1,3 @@
+Hello to my learning journey
+I am programming in Python
+Also Python is my first programming language
